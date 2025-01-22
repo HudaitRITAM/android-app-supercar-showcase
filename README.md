@@ -61,4 +61,5 @@ Handling UI components effectively.
 
 Screenshots -::
 
-![Screenshot_1737531732](https://github.com/user-attachments/assets/6a2b83ac-6efd-4be8-b979-19cc5aedb53c)
+
+<img src="https://github.com/user-attachments/assets/6a2b83ac-6efd-4be8-b979-19cc5aedb53c" width="400" alt="Car Details Screen">
